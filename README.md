@@ -1,6 +1,8 @@
 # ChatterBox — Real-Time MERN Chat App (PWA)
 
 A WhatsApp-inspired, mobile-friendly, installable real-time chat application built with MongoDB, Express, React, and Node (MERN) + Socket.IO.
+
+
 **LIVE**
 **BACKEND** : https://chatterbox-real-time-mern-chat.onrender.com
 
